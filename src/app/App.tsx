@@ -306,7 +306,7 @@ function Navbar() {
         <a href="#home" className="flex items-center gap-2.5 flex-shrink-0 min-w-0">
           <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center flex-shrink-0"
             style={{ background: `linear-gradient(135deg,${C.rose},${C.gold})`, boxShadow: "0 4px 18px rgba(181,68,110,0.42)" }}>
-            <span style={{ fontFamily: "'Great Vibes',cursive", color: "#fff", fontSize: 18, lineHeight: 1 }}>R</span>
+            <span style={{ fontFamily: "'Playfair Display',Georgia,serif", color: "#fff", fontSize: 18, lineHeight: 1 }}>R</span>
           </div>
           <div className="min-w-0 max-w-[180px] sm:max-w-[300px] lg:max-w-[380px]">
             <div className="hidden sm:block truncate" style={{ fontFamily: "'Great Vibes',cursive", color: scrolled ? C.rose : "#fff", fontSize: "clamp(15px,2.1vw,20px)", lineHeight: 1.1, textShadow: scrolled ? "none" : "0 2px 10px rgba(0,0,0,0.4)" }}>
