@@ -312,7 +312,7 @@ function Navbar() {
             <div className="hidden sm:block truncate" style={{ fontFamily: "'Great Vibes',cursive", color: scrolled ? C.rose : "#fff", fontSize: "clamp(15px,2.1vw,20px)", lineHeight: 1.1, textShadow: scrolled ? "none" : "0 2px 10px rgba(0,0,0,0.4)" }}>
               RIYA'S GLITZ 
             </div>
-            <div className="sm:hidden truncate" style={{ fontFamily: "'Great Vibes',cursive", color: scrolled ? C.rose : "#fff", fontSize: 20, lineHeight: 1.05, textShadow: scrolled ? "none" : "0 2px 10px rgba(0,0,0,0.4)" }}>
+            <div className="sm:hidden truncate" style={{ fontFamily: "'Playfair Display',Georgia,serif", color: scrolled ? C.rose : "#fff", fontSize: 20, lineHeight: 1.05, textShadow: scrolled ? "none" : "0 2px 10px rgba(0,0,0,0.4)" }}>
               RIYA'S GLITZ
             </div>
             <div className="hidden sm:block" style={{ fontFamily: "'DM Sans',sans-serif", color: scrolled ? "#9e6050" : "rgba(255,230,210,0.78)", fontSize: 8, letterSpacing: "0.15em", textTransform: "uppercase" }}>
